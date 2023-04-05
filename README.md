@@ -23,15 +23,9 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 # Requirement
 
 以下のライブラリを使用しています．
- 
 * MySQLdb
 * requests
-* os
-* json
-* sqlite3
-* collections
-* sys
-* io
+* flask(APIとして別サーバーに設置)
 
 
 # Installation
@@ -63,8 +57,9 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 
 # Author
  
-* 作成者：五十嵐弘樹，並木海大
+* 作成者：並木海大、五十嵐弘樹
 * 所属：早稲田大学　創造理工学部　経営システム工学科
-* E-mail：五十嵐弘樹→h.igarashi@fuji.waseda.jp
 * E-mail：並木海大→miharunamiki@gmail.com
+* E-mail：五十嵐弘樹→h.igarashi@fuji.waseda.jp
+
  
