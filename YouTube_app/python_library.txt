@@ -1,0 +1,11 @@
+入れたライブラリの一覧
+
+MySQLdb
+requests
+os
+json
+sqlite3
+collections
+sys
+io
+
