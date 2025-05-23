@@ -6,7 +6,9 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 
 # DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+今回の動画の具体的な使用方法については，以下のurlの動画で，視聴できるようになっています．
+
+<https://youtu.be/kjE4L6MpO0s>
  
 # Features
 
@@ -23,9 +25,15 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 # Requirement
 
 以下のライブラリを使用しています．
+ 
 * MySQLdb
 * requests
-* flask(APIとして別サーバーに設置)
+* os
+* json
+* sqlite3
+* collections
+* sys
+* io
 
 
 # Installation
@@ -49,6 +57,8 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 
 ※ゲストユーザーは，一般公開しているため，すでにリストが追加されている場合もある．
 
+また，上記の操作方法の動画でより詳しい説明をしている．
+
 # Note
 
 ・動画の取得はcron設定で１分ごとに取得するので，チャンネルの追加後すぐに動画が取得されない場合もある．(最大で１分待つことで動画が取得される)
@@ -57,9 +67,8 @@ phpとpythonで作られており、cssのフレームワークとしてTailwind
 
 # Author
  
-* 作成者：並木海大、五十嵐弘樹
+* 作成者：並木海大, 五十嵐弘樹
 * 所属：早稲田大学　創造理工学部　経営システム工学科
-* E-mail：並木海大→miharunamiki@gmail.com
 * E-mail：五十嵐弘樹→h.igarashi@fuji.waseda.jp
-
+* E-mail：並木海大→miharunamiki@gmail.com
  
